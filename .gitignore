@@ -60,6 +60,7 @@ typings/
 # data
 data/database.db
 data/config.json
+data/configuration.yaml
 data/log*.txt
 data/state.json
 data/log
